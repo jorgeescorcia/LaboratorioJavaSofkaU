@@ -1,8 +1,6 @@
 
 Y
 )src/Ejercicio2/NumeroMayorMenorIgual.java,e\5\e5df2fcd15a4c25de1af7c5829408e70e39074d0
-O
-src/Ejercicio1/Mayor_Igual.java,9\9\995a8d56af504c39ef91f55b3ea5c9ba898ec4e0
 S
 #src/Ejercicio3/AreaDeUnCirculo.java,0\7\079ea90e241a0a794742e5ed9a3818f7e95dd1f8
 O
