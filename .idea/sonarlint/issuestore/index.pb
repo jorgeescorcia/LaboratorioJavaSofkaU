@@ -1,0 +1,33 @@
+
+Y
+)src/Ejercicio2/NumeroMayorMenorIgual.java,e\5\e5df2fcd15a4c25de1af7c5829408e70e39074d0
+O
+src/Ejercicio1/Mayor_Igual.java,9\9\995a8d56af504c39ef91f55b3ea5c9ba898ec4e0
+S
+#src/Ejercicio3/AreaDeUnCirculo.java,0\7\079ea90e241a0a794742e5ed9a3818f7e95dd1f8
+O
+src/Ejercicio4/CalcularIva.java,f\1\f174bfea6ef5236d3346d14aeb9cb6b4dcb5ff22
+Q
+!src/Ejercicio5/Pares_Impares.java,b\1\b1628767a9f772fd54b44942ef3c87e211ae1748
+R
+"src/Ejercicio6/ParImparConFor.java,9\e\9e2a8f83f7721ca62b67409ef69aea0537db2009
+P
+ src/Ejercicio7/MayorDoWhile.java,3\5\35eda1c4ece549eefa0faf09e48c896d9e8985a2
+Q
+!src/Ejercicio8/DiaDeLaSemana.java,d\e\dee3d893a1940b8628c08e7c8faec44e98acf52c
+Z
+*src/Ejercicio10/EliminarEspaciosFrase.java,3\2\32c8459e1bae47053be0bf027d6565d5404358f0
+S
+#src/Ejercicio9/ReemplazarLetra.java,4\d\4d912701f9340873f8fdd81b02d1e87f1e04bfc9
+R
+"src/Ejercicio11/LongitudFrase.java,0\0\00e58e14c70eb97ca1b0ccb37bc585e1d1a0e15c
+T
+$src/Ejercicio12/PalabrasIguales.java,0\6\060934d7599e70efc8ef9076f544faf22247e15d
+T
+$src/Ejercicio13/FechaHoraActual.java,c\d\cda847779727e7b1ba6669e3bdc817ab3b94b86c
+T
+$src/Ejercicio14/NumerosHastaMil.java,2\7\2740d774ae5e81db660463ae548c036d26f3a2e4
+I
+src/Ejercicio15/Menu.java,0\6\066b74753111b1229266681712e545a548fbbccc
+I
+src/Ejercicio16/main.java,1\0\1098907d7e51378ce34f7e8e0b5ccc39020905bd

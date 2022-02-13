@@ -1,0 +1,6 @@
+
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(˜Şğ˜
+7	java:S131""Add a default case to this switch.(ç™Œö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÈĞÏÀşÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯ç®Şøÿÿÿÿ8¥İ‡Ûí/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğØ
